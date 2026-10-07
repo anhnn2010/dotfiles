@@ -1,0 +1,4 @@
+# Clink-specific Readline bindings.
+$if clink
+"\C-e": clink-insert-suggested-line
+$endif

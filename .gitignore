@@ -1,0 +1,8 @@
+# Per-machine/private WezTerm profiles
+wezterm/local.lua
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
